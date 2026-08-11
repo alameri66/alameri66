@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Alameri</h1>
+<h1 align="center">Hi 👋, I'm Abdullah AL_ameri</h1>
 
 <h3 align="center">
 Information Technology Graduate | Software Developer
